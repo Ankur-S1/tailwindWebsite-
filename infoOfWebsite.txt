@@ -1,0 +1,20 @@
+1.Coding (somewhat)
+-Quizzes website
+-Humor website
+-Statistics website
+-Quotes website
+-Life hacks website
+-Animals website
+
+Few AddOns(CSS techniques)
+*CSS Transitions
+*CSS Themes
+*CSS Animations
+
+JavaScript
+! Adding JS in Quizzes section to show questions one by one. Next question to be shown only when the prev is done.
+! Humor/Memes - To be displayed with a sliding bar (shows one by one)
+! Statistics - Trend to every language in the market (bar graph prolly)
+! Few Quotes(obviously written by famous entities)
+! Life Hacks - Basically computer hacks (i'm not talking about ethical hacking)
+! Animals - Extra AddOn, tbh it is req.
